@@ -1,0 +1,22 @@
+{
+    "hello": "hello",
+    "@hello":{
+        "description": "The current language"
+    },
+    "flutter": "flutter",
+    "@flutter":{
+        "description": "something"
+    },
+    "demo": "demo",
+    "@demo":{
+        "description": "somethingis"
+    },
+    "home": "home",
+    "@home":{
+        "description":"homeIsHome"
+    },
+    "page": "page",
+    "@page": {
+        "description": "Page is Page"
+    }
+}
